@@ -1,6 +1,3 @@
-# PLANNING SEMAINE 1
-
-
 ## SPRINT 1
 
 | **Tâche**                     | **Description**                                                                                   |

@@ -39,7 +39,7 @@ Clear-Host
 		            $Service = $Services[$i]
 		            $PrenomNomInit = "$PrenomUtilisateur.$InitNom"
                 Write-Output "Nom = $prenomNom giveName $PrenomUtilisateur Surname $NomUtilisateur MDP $MotDePasse Nom $prenomNom NomDomaine $NomDeDomaine $UnitéOrganisationnelle" 
-                New-ADUser -Name "$prenomNom" -GivenName "$PrenomUtilisateur" -Surname "$NomUtilisateur" -SamAccountName "$PrenomNomInit" -UserPrincipalName "$prenomNom@$NomDeDomaine" -OfficePhone "$fixephone" -MobilePhone "$Mobilephone" -StreetAddress "$adresse" -PostalCode "$Codepostal" -City "$ville"  -State "$Region" -Country "Fr" -AccountPassword (ConvertTo-SecureString "Azerty1*" -AsPlainText -Force) -EmailAddress "$NomPrenom@PharmaGreen.fr" -Title "$fonctiontaff" -Company "$Société" -Initials "$Initial" -Path "OU=$Service,OU=$Unite,OU=Lyon,DC=PharmaGreen,Dc=Local"
+                New-ADUser -Name "$prenomNom" -GivenName "$PrenomUtilisateur" -Surname "$NomUtilisateur" -SamAccountName "$PrenomNomInit" -UserPrincipalName "$prenomNom@$NomDeDomaine" -OfficePhone "$fixephone" -MobilePhone "$Mobilephone" -StreetAddress "$adresse" -PostalCode "$Codepostal" -City "$ville"  -State "$Region" -Country "Fr" -AccountPassword (ConvertTo-SecureString "Azerty1*" -AsPlainText -Force) -EmailAddress "$NomPrenom@PharmaGreen.fr" -Title "$fonctiontaff" -Company "$Société" -Initials "$Initial" -Path "OU=$Service,OU=$Unite,OU=Utilisateur,OU=Lyon,DC=PharmaGreen,Dc=Local"
                 Enable-ADAccount -Identity $PrenomNomInit
                	 
             }

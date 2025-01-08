@@ -1,12 +1,12 @@
 ## SPRINT 1
 
 | **Tâche**                                    | **Description**                                                                                   |
-|-------------------------------               |---------------------------------------------------------------------------------------------------|
-|   Propostion de materiel                     |     liste du materiel à deployer                                   |
-|   Schema de l'infrastructure réseau          |     schema detaillé de réseau    |
-|   Convention de nommage                      |     Attribution nomminative de à chaque noeud du reseau                         |
+|-------------------------------                  |---------------------------------------------------------------------------------------------------|
+|   Propostion de materiel                        |      Liste du materiel à deployer                                   |
+|   Réalisation Schema de l'infrastructure réseau |      Schema detaillé de réseau                                 |
+|   Mise en place Convention de nommage           |     Attribution d'identité à chaque noeud du réseau                         |
 |     |                                   |
-|      |                                     |
+|      |                                   |
 |      |                                    |
 
 ## EQUIPES ET ROLES 

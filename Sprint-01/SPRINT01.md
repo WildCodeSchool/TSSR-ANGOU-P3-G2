@@ -38,11 +38,12 @@ L'objectif final du projet est la mise en place d'une infrastructure reseau pour
 https://drive.google.com/file/d/1Imd7CTKSVA3glBLvNK4tMaX3mI381rTc/view?usp=drive_link
 
 ## Matériel 
-.Serveurs
-.Switchs
-.Routeurs 
-.Ordinateurs
-.Parefeu
+
+- Serveurs
+- Switchs
+- Routeurs 
+- Ordinateurs
+- Parefeu
 
 
 

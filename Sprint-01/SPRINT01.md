@@ -1,10 +1,10 @@
 ## SPRINT 1
 
-| **Tâche**                     | **Description**                                                                                   |
-|-------------------------------|---------------------------------------------------------------------------------------------------|
-|    |                                        |
-|       |          |
-|      |         |
+| **Tâche**                                    | **Description**                                                                                   |
+|-------------------------------               |---------------------------------------------------------------------------------------------------|
+|   Propostion de materiel                     |     liste du materiel à deployer                                   |
+|   Schema de l'infrastructure réseau          |     schema detaillé de réseau    |
+|   Convention de nommage                      |     Attribution nomminative de à chaque noeud du reseau                         |
 |     |                                   |
 |      |                                     |
 |      |                                    |
@@ -27,7 +27,7 @@ L'objectif final du projet est la mise en place d'une infrastructure reseau pour
 
 ## taches réalisées 
 
-- Propostion prévisionnelle du materiel pour l'infrastructure réseau
+- Propostion de materiel pour l'infrastructure réseau
 - Schema de l'infrastructure réseau
 - Etablissemment de la convention de nommage
 

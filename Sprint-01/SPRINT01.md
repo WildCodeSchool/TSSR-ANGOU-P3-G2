@@ -4,7 +4,7 @@
 |-------------------------------                  |---------------------------------------------------------------------------------------------------|
 |   Propostion de materiel                        |      Liste du materiel à deployer                                   |
 |   Réalisation Schema de l'infrastructure réseau |      Schema detaillé de réseau                                 |
-|   Mise en place Convention de nommage           |     Attribution d'identité à chaque noeud du réseau                         |
+|   Mise en place de la Convention de nommage     |     Attribution d'identité à chaque noeud du réseau                         |
 |     |                                   |
 |      |                                   |
 |      |                                    |

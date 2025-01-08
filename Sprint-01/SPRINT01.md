@@ -31,10 +31,18 @@ L'objectif final du projet est la mise en place d'une infrastructure reseau pour
 - Schema de l'infrastructure réseau
 - Etablissemment de la convention de nommage
 
-## Modele d'infrastructure proposé
+## Schema de l'infrastructure et matériel proposés
+
+## Schéma 
 
 https://drive.google.com/file/d/1Imd7CTKSVA3glBLvNK4tMaX3mI381rTc/view?usp=drive_link
 
+## Matériel 
+-Serveur
+-Switch
+-Routeur
+-Ordinateurs
+-Parefeu
 
 
 

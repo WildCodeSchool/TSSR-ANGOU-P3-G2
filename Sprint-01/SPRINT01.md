@@ -2,11 +2,11 @@
 
 | **Tâche**                                    | **Description**                                                                                   |
 |-------------------------------                  |---------------------------------------------------------------------------------------------------|
+|   Designation des Roles    |  Assignation au role de Product Owner, Scrum Master, Technicien                                 |
 |   Propostion de materiel                        |      Liste du materiel à déployer                                   |
 |   Réalisation Schema de l'infrastructure réseau |      Schema détaillé de réseau                                 |
 |   Mise en place de la Convention de nommage     |     Attribution d'identité à chaque noeud du réseau                         |
-|     |                                   |
-|      |                                   |
+|   Conevention de Nommage   | Créer une conevention de Nommage                                  |
 |      |                                    |
 
 ## EQUIPES ET ROLES 

@@ -5,7 +5,7 @@
 
 | **Tâche**                           | **Description**                                                                                   |
 |-------------------------------------|---------------------------------------------------------------------------------------------------|
-|    Mise ne place de GPO securité    |  Création de 5 GPO Sécurisé ,test et deploiement de la GPO
+|    Mise en place de GPO securité    |  Création de 5 GPO Sécurisé ,test et deploiement de la GPO
 |    Mise en place des GPO standard   |  Création de 5 GPO Standard ,test et deploiement de la GPO                                                      
 
 

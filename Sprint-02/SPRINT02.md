@@ -24,7 +24,7 @@
 ## OBJECTIS GLOBAL 
 
 GLOBAL : 
-Mise en place d'un Windows serveur en GUI et en Core
-Gestion de L'arborescense de l'AD
-Intégration des utilisateurs via un script powershell
-Mise en place de VM Debian 
+- Mise en place d'un Windows serveur en GUI et en Core
+- Gestion de L'arborescense de l'AD
+- Intégration des utilisateurs via un script powershell
+- Mise en place de VM Debian 

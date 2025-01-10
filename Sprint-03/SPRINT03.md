@@ -17,7 +17,7 @@
 | Dylan | Scrum Master  | Garant du respect de la méthodologie Agile et facilitateur. |
 | Theophile | Technicien  | Responsable des aspects techniques et de la mise en œuvre. |
 
-## OBJECTIS GLOBAL 
+## OBJECTIS GLOBAUX
 
 * Creation  de 5 GPO securité
 * Creation des GPO standard

@@ -5,13 +5,8 @@
 
 | **Tâche**                           | **Description**                                                                                   |
 |-------------------------------------|---------------------------------------------------------------------------------------------------|
-|    Mise ne place de GPO securité                                       |
-|    Mise en place des GPO standard |         |
-
-|       |         |
-|      |                                   |
-|      |                                     |
-|      |                                    |
+|    Mise ne place de GPO securité    |  Création ,test et deploiement de la GPO
+|    Mise en place des GPO standard   |  Création ,test et deploiement de la GPO                                                      
 
 
 ## EQUIPES ET ROLES 
